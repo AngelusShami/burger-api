@@ -1,0 +1,41 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Angelo Burger",
+            "restaurant": "Rwanda Burgers",
+            "web": "www.rwandaburgers.com",
+            "description": "So damn good",
+            "ingredients": ["Beef","Cheese","Dressing","Lettuce","Tomatoes"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number": "75",
+                    "line 1": "Placitas Trail",
+                    "line 2": "Fort Worth",
+                    "postcode": "76123",
+                    "country": "Rwanda"
+                }
+             ]
+          },
+        {
+            "id": 1,
+            "name": "Pulled Mooshie",
+            "restaurant": "Rwanda Burgers",
+            "web": "www.veganburger.com",
+            "description": "So damn good",
+            "ingredients": ["jackfruit","coleslaw","gluten","gluten free bun"],
+            "addresses": [
+                {
+                    "addressid":"0",
+                    "number": "1612",
+                    "line 1": "Placitas Trail",
+                    "line 2": "Fort Worth",
+                    "postcode": "76123",
+                    "country": "Rwanda"
+                } 
+                
+             ]
+        }
+    ]
+}
